@@ -8,10 +8,10 @@
 // See what the scoreboards looks like and get, go to : customization/pictures/scoreboards
 //=========================================================================================
 
-//#base "../resource/ui/scoreboard_16v16_full.res"				// 16v16 FULL-STAT SCOREBOARD
+#base "../resource/ui/scoreboard_16v16_full.res"				// 16v16 FULL-STAT SCOREBOARD
 //#base "../resource/ui/scoreboard_16v16_short.res"				// 16v16 SHORT-STAT SCOREBOARD
 //#base "../resource/ui/scoreboard_9v9_full.res"				// 9v9 FULL-STAT SCOREBOARD
-#base "../resource/ui/scoreboard_9v9_short.res"				// 9v9 SHORT-STAT SCOREBOARD
+//#base "../resource/ui/scoreboard_9v9_short.res"				// 9v9 SHORT-STAT SCOREBOARD
 //#base "../resource/ui/scoreboard_6v6_short.res"				// 6v6 SHORT-STAT SCOREBOARD
 
 //=========================================================================================

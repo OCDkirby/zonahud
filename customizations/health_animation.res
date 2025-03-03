@@ -8,8 +8,8 @@
 // Check how the health animations looks like, go to : customization/pictures/health_animations
 //=========================================================================================
 
-//#base "../resource/ui/HudPlayerHealth_Shadow.res"				// Animation on health-shadow
-#base "../resource/ui/HudPlayerHealth_FullFont.res"			// Animation on primary-font
+#base "../resource/ui/HudPlayerHealth_Shadow.res"				// Animation on health-shadow
+//#base "../resource/ui/HudPlayerHealth_FullFont.res"			// Animation on primary-font
 //#base "../resource/ui/HudPlayerHealth_Boxes.res"				// Box animation on buff/low
 
 //=========================================================================================
